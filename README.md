@@ -30,9 +30,9 @@ If you are looking for a data-driven and innovative problem solver, let's connec
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/narjess-iben-cheikh/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png" alt="LinkedIn" width="40" height="40" />
-  </a>
+ <a href="https://www.linkedin.com/in/narjess-iben-cheikh/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" />
+</a>
 
 ### Languages and Tools
 
