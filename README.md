@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey there! 👋 I'm Narjess, an Engineer specializing in Data Science. I'm passionate about the exciting world of AI. 
+## Hey there! 👋 I'm Narjess, an Engineer specializing in Data Science. I'm passionate about the exciting world of AI. 
 
 💻 I thrive on solving intricate problems using data and AI techniques. Throughout my academic journey, I have gained a strong foundation in machine learning, statistical analysis and programming languages like Python and R. 
 
