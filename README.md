@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 ##  <p align="center"> Hey there! 👋 I'm Narjess, an Engineer specializing in Data Science. </p>
 ##   <p align="center"> I'm passionate about the exciting world of AI. </p>
 
-💻 I thrive on solving intricate problems using data and AI techniques. Throughout my academic journey, I have gained a strong foundation in machine learning, statistical analysis and programming languages like Python and R. 
+💻 I am a passionate Data Science and Artificial Intelligence Engineer with a strong foundation in machine learning, statistical analysis and programming languages like Python and R.
+I am eager to contribute my knowledge and collaborative spirit to solve real-world problems and create impactful solutions using data and AI.
 
-📊 During my internships and projects, I have had the opportunity to work on various data-driven projects, which have honed my skills in data preprocessing, data visualization, and predictive modeling. I am a quick learner and always eager to learn new technologies and algorithms, and I thrive in fast-paced and challenging environments. 💡
+📊 I have had the opportunity to work on various data-driven projects, which have honed my skills in data preprocessing, data visualization, and predictive modeling. I am a quick learner and always eager to learn new technologies and algorithms, and I thrive in fast-paced and challenging environments. 💡
 
 🤝 I am a firm believer in the power of collaboration and teamwork. I enjoy working with diverse teams, sharing ideas, and learning from others' experiences. I have excellent communication skills, which help me convey complex technical concepts to non-technical stakeholders effectively. 
 
@@ -29,44 +30,34 @@ If you are looking for a data-driven and innovative problem solver, let's connec
 
 ## Connect with me
 
-  <a href="[https://www.linkedin.com/in/your-profile-link](https://www.linkedin.com/in/narjess-iben-cheikh/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/narjess-iben-cheikh/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png" alt="LinkedIn" width="40" height="40" />
   </a>
 
 ### Languages and Tools
 
-
-<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/>
-</p>
 
-<p align="left">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/>
-</p>
 
-<p align="left">
   <img src="https://www.vectorlogo.zone/logos/nltk/nltk-icon.svg" alt="NLTK" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spaCy" width="40" height="40"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
   <img src="https://github.com/huggingface/transformers/blob/main/docs/source/imgs/transformers_logo_name.png" alt="Transformers" width="100" height="40"/>
-</p>
 
-<p align="left">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/doc/img/yolo-logo.png" alt="YOLO" width="40" height="40"/>
-</p>
 
-<p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
-</p>
+
