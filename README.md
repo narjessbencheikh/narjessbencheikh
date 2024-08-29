@@ -24,8 +24,6 @@ I am eager to contribute my knowledge and collaborative spirit to solve real-wor
 
 🤝 I am a firm believer in the power of collaboration and teamwork. I enjoy working with diverse teams, sharing ideas, and learning from others' experiences. I have excellent communication skills, which help me convey complex technical concepts to non-technical stakeholders effectively. 
 
-🌍 Apart from my technical skills, I am also passionate about making a positive impact in the world. I am constantly looking for ways to use my skills and knowledge for the betterment of society. I am excited about the potential of data and AI in solving real-world problems and creating a better future.
-
 If you are looking for a data-driven and innovative problem solver, let's connect and see how we can work together. I am always open to new opportunities and collaborations. 🚀
 
 ## Connect with me
