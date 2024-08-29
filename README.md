@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##  <p align="center"> Hey there! 👋 I'm Narjess, a Data Science and Artificial Intelligence Engineer </p>
-##   <p align="center"> I'm passionate about the exciting world of AI. </p>
+##  <p align="center"> Hey there! 👋 I'm Narjess, a Data Science and Artificial Intelligence Engineer 
+##   I'm passionate about the exciting world of AI </p>
 
 💻 I am an Engineer specializing in Data Science with a strong foundation in machine learning, statistical analysis and programming languages like Python and R.
 I am eager to contribute my knowledge and collaborative spirit to solve real-world problems and create impactful solutions using data and AI.
