@@ -48,13 +48,18 @@ If you are looking for a data-driven and innovative problem solver, let's connec
   <a href="https://www.mysql.com/" target="_blank" style="margin-right: 10px;">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="40" height="40"/>
   </a>
+  <!-- C -->
+<a href="https://www.cprogramming.com/" target="_blank" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</a>
+<!-- C++ -->
+<a href="https://www.cplusplus.com/" target="_blank" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</a>
+
   <!-- Java -->
   <a href="https://www.java.com/" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <!-- Flask -->
-  <a href="https://flask.palletsprojects.com/" target="_blank" style="margin-right: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
   </a>
   <!-- TensorFlow -->
   <a href="https://www.tensorflow.org/" target="_blank" style="margin-right: 10px;">
@@ -112,8 +117,10 @@ If you are looking for a data-driven and innovative problem solver, let's connec
   <a href="https://code.visualstudio.com/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
   </a>
-
-
+ <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank" style="margin-right: 10px;">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+  </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narjessbencheikh&show_icons=true&theme=transparent)
 
