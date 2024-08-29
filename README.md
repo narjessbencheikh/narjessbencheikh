@@ -43,5 +43,7 @@ If you are looking for a data-driven and innovative problem solver, let's connec
   
     
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narjessbencheikh&show_icons=true&theme=radical)
+\n
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narjessbencheikh&show_icons=true&theme=transparent)
 
