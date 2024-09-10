@@ -120,14 +120,7 @@ If you are looking for a data-driven and innovative problem solver, let's connec
   <a href="https://www.jenkins.io/" target="_blank" style="margin-right: 10px;">
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
-  <!-- SonarQube -->
- <a href="https://www.sonarqube.org/" target="_blank" style="margin-right: 10px;">
-  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-ar21.svg" alt="SonarQube" width="40" height="40"/>
- </a>
- <!-- Nexus -->
-<a href="https://www.sonatype.com/products/repository-oss" target="_blank" style="margin-right: 10px;">
-  <img src="https://www.vectorlogo.zone/logos/sonatype/sonatype-ar21.svg" alt="Nexus" width="40" height="40"/>
-</a>
+
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" style="margin-right: 10px;">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
