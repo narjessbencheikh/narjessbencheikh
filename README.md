@@ -112,10 +112,10 @@ If you are looking for a data-driven and innovative problem solver, let's connec
   <a href="https://code.visualstudio.com/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
   </a>
-<!-- Flask logo with link -->
-<a href="https://flask.palletsprojects.com/" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask logo" width="40" height="40" style="vertical-align: middle;"/>
-</a>
+<!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank" style="margin-right: 10px;">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+  </a>
 
   <!-- Jenkins -->
   <a href="https://www.jenkins.io/" target="_blank" style="margin-right: 10px;">
