@@ -127,11 +127,5 @@ If you are looking for a data-driven and innovative problem solver, let's connec
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
 
 
-   <a href="https://www.langchain.com/" target="_blank" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/hwchase17/langchain/main/docs/source/_static/langchain-logo.svg" 
-       alt="LangChain Logo" 
-       width="40" 
-       height="40"/>
-</a>
   </a>
 
