@@ -114,7 +114,7 @@ If you are looking for a data-driven and innovative problem solver, let's connec
   </a>
 <!-- Flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank" style="margin-right: 10px;">
-  <img src="images/flask-icon.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://logo.svgcdn.com/devicon/flask-original.svg" alt="Flask Logo" width="40" height="40"/>
   </a>
 
   <!-- Jenkins -->
