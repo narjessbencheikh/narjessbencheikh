@@ -128,7 +128,6 @@ If you are looking for a data-driven and innovative problem solver, let's connec
   </a>
 
 
-  <p align="left">
   <!-- LangChain -->
   <a href="https://www.langchain.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langchain/langchain-original.svg"
@@ -139,15 +138,5 @@ If you are looking for a data-driven and innovative problem solver, let's connec
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg"
          alt="Hugging Face" width="40" height="40"/>
   </a>
-  <!-- PyTorch -->
-  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
-         alt="PyTorch" width="40" height="40"/>
-  </a>
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
-         alt="TensorFlow" width="40" height="40"/>
-  </a>
-</p>
+
 
