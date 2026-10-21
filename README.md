@@ -91,6 +91,11 @@ If you are looking for a data-driven and innovative problem solver, let's connec
   <a href="https://opencv.org/" target="_blank" style="margin-right: 10px;">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   </a>
+  <!-- Hugging Face -->
+  <a href="https://huggingface.co/" target="_blank" style="margin-right: 10px;">
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
+  </a>
+  
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" style="margin-right: 10px;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -127,18 +132,5 @@ If you are looking for a data-driven and innovative problem solver, let's connec
 
   </a>
 
-
- <a href="https://www.langchain.com/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/langchain.svg" width="40" height="40" alt="LangChain"/>
-  </a>
-  <a href="https://huggingface.co/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/huggingface.svg" width="40" height="40" alt="Hugging Face"/>
-  </a>
-  <a href="https://www.trychroma.com/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/chroma.svg" width="40" height="40" alt="ChromaDB"/>
-  </a>
-  <a href="https://openai.com/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" width="40" height="40" alt="OpenAI"/>
-  </a>
 
 
