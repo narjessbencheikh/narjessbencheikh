@@ -105,17 +105,19 @@ If you are looking for a data-driven and innovative problem solver, let's connec
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/>
   </a>
   <!-- Google Colab -->
-  <a href="https://colab.research.google.com/" target="_blank" style="margin-right: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Colab" width="40" height="40"/>
-  </a>
+<a href="https://colab.research.google.com/" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"
+       alt="Google Colab" width="40" height="40"/>
+</a>
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
   </a>
 <!-- Flask -->
-  <a href="https://flask.palletsprojects.com/" target="_blank" style="margin-right: 10px;">
-  <img src="https://logo.svgcdn.com/devicon/flask-original.svg" alt="Flask Logo" width="40" height="40"/>
-  </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
+       alt="Flask" width="40" height="40"/>
+</a>
 
   <!-- Jenkins -->
   <a href="https://www.jenkins.io/" target="_blank" style="margin-right: 10px;">
