@@ -87,10 +87,6 @@ If you are looking for a data-driven and innovative problem solver, let's connec
   <a href="https://spacy.io/" target="_blank" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spaCy" width="40" height="40"/>
   </a>
-  <!-- Hugging Face -->
-  <a href="https://huggingface.co/" target="_blank" style="margin-right: 10px;">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" height="40"/>
-  </a>
   <!-- OpenCV -->
   <a href="https://opencv.org/" target="_blank" style="margin-right: 10px;">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
@@ -130,4 +126,28 @@ If you are looking for a data-driven and innovative problem solver, let's connec
 
 
   </a>
+
+
+  <p align="left">
+  <!-- LangChain -->
+  <a href="https://www.langchain.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langchain/langchain-original.svg"
+         alt="LangChain" width="40" height="40"/>
+  </a>
+  <!-- Hugging Face -->
+  <a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg"
+         alt="Hugging Face" width="40" height="40"/>
+  </a>
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
+         alt="PyTorch" width="40" height="40"/>
+  </a>
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
+         alt="TensorFlow" width="40" height="40"/>
+  </a>
+</p>
 
