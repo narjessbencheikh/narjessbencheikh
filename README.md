@@ -130,13 +130,25 @@ If you are looking for a data-driven and innovative problem solver, let's connec
 
   <!-- LangChain -->
   <a href="https://www.langchain.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langchain/langchain-original.svg"
+    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/brand/wordmark.png"
          alt="LangChain" width="40" height="40"/>
   </a>
+
   <!-- Hugging Face -->
   <a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg"
          alt="Hugging Face" width="40" height="40"/>
+  </a>
+
+  <!-- ChromaDB -->
+  <a href="https://www.trychroma.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/docs/website/static/img/chroma.png"
+         alt="ChromaDB" width="40" height="40"/>
+  </a>
+  <!-- OpenAI -->
+  <a href="https://openai.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/openai/412991"
+         alt="OpenAI" width="40" height="40"/>
   </a>
 
 
